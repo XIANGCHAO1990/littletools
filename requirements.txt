@@ -50,7 +50,7 @@ shadowsocks==2.8.2
 six==1.11.0
 TBB==0.1
 Twisted==18.9.0
-urllib3==1.25.3
+urllib3==1.26.5
 vine==1.1.4
 w3lib==1.19.0
 xadmin==0.6.1
